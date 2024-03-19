@@ -1,0 +1,6 @@
+{
+    "TITLE": "Prueba de App en Flask",
+    "SESSION_PERMANENT": true,
+    "SESSION_TYPE": "filesystem",
+    "SECRET_KEY": "b'HpXNKstMFcrlj5Tv1cjctwhIfIevg5nwIjjOkJGTEmk='"
+}
